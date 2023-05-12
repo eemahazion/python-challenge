@@ -1,0 +1,5 @@
+The total number of months included in the dataset is 86
+The total net income is $22564198
+The average change in income was $-8311.11 daily
+The greatest increase in profits was for the month of Aug-16 in the amount of $1862002
+The greatest decrease in profits was for the month of Feb-14 in the amount of $-1825558
